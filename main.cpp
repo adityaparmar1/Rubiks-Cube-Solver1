@@ -1,6 +1,8 @@
-#include <iostream>
+#include<bits/stdc++.h>
+#include"Model/RubiksCube3dArray.cpp"
 
+using namespace std;
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+    RubiksCube3dArray object;
+    object.print();
 }
