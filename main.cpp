@@ -3,6 +3,10 @@
 
 using namespace std;
 int main() {
-    RubiksCube3dArray object;
-    object.print();
+    RubiksCube3dArray cubie;
+    cubie.print();
+    cubie.b();
+    cubie.print();
+    cubie.bPrime();
+    cubie.print();
 }
