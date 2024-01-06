@@ -1,0 +1,14 @@
+//
+// Created by addyp on 06-01-2024.
+//
+
+#ifndef RUBIKS_CUBE_SOLVER1_RUBIKSCUBE1DARRAY_H
+#define RUBIKS_CUBE_SOLVER1_RUBIKSCUBE1DARRAY_H
+
+
+class RubiksCube1dArray {
+
+};
+
+
+#endif //RUBIKS_CUBE_SOLVER1_RUBIKSCUBE1DARRAY_H

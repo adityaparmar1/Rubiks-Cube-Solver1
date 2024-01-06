@@ -37,7 +37,7 @@ public :
     }
 
     bool isSolved() const override{
-        // write the code here
+
         for(int i=0;i<6;i++){
             for(int j=0;j<3;j++){
                 for(int k=0;k<3;k++){
@@ -50,7 +50,7 @@ public :
     }
 
     COLOR getColor(FACE face,unsigned row,unsigned col) const override{
-        //write the code here
+
         char color = cube[int(face)][row][col];
         switch(color){
             case 'W':
