@@ -38,6 +38,7 @@ public:
 
     vector<RubiksCube::MOVE> solve() {
         dfs(1);
+
         return moves;
     }
 
